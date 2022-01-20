@@ -1,2 +1,3 @@
 hello this is new file
 melakukan perubahan dengan menambahkan cabang 
+now move to merge cabang rilis ke cabang master
